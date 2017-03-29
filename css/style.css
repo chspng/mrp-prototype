@@ -1,0 +1,20 @@
+#enterbutton{	
+	color: "#fff";
+	font-weight: bold;
+	font-size: 30px;
+	width: 200px;
+	height: 100px;
+	border: none;
+	border-radius: 50px;
+	margin: 0;
+	padding: 0;
+	cursor: pointer; 
+	cursor: hand; 
+}
+
+.pagecontainer{
+	min-height: 50em;
+    display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
